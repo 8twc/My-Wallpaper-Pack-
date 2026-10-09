@@ -1,7 +1,22 @@
-# My-Wallpaper-Pack-
-this is just a repo where i dump my wallpapers!
- 
-# unzip the file with 
+# 🌆 My Wallpaper Pack
+
+Welcome to my wallpaper collection! This pack includes high-quality, high-resolution backgrounds.
 
 
-<img width="347" height="212" alt="shot-20261009-182158" src="https://github.com/user-attachments/assets/6ec4c39a-81a2-4ab5-8da1-f505e145cacd" />
+
+
+## 📥 Download
+
+Since the archive is large, you can download the complete package directly from the link below:
+
+👉 **[Download Wallpaper Pack (535 MB)](../releases/latest)**
+
+---
+
+## 🛠️ How to Extract (Linux)
+
+Open your terminal and click the **Copy** button on the right to run these commands. They will safely enter your Downloads directory and extract your wallpapers without cluttering your system or displaying your username:
+
+```bash
+cd ~/Downloads && unzip wallpaper-pack.zip -d wallpaper_pack_extracted
+```
