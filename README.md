@@ -15,7 +15,7 @@ Since the archive is large, you can download the complete package directly from 
 
 ## 🛠️ How to Extract (Linux)
 
-Open your terminal and click the **Copy** button on the right to run these commands. They will safely enter your Downloads directory and extract your wallpapers without cluttering your system or displaying your username:
+Open your terminal and click the **Copy** button on the right to run these commands. They will safely enter your Downloads directory and extract your wallpapers:
 
 ```bash
 cd ~/Downloads && unzip wallpaper-pack.zip -d wallpaper_pack_extracted
@@ -23,7 +23,7 @@ cd ~/Downloads && unzip wallpaper-pack.zip -d wallpaper_pack_extracted
 
 ## 🛠️ How to Extract (Windows)
 
-Open **PowerShell** and click the **Copy** button on the right to run these commands. This will safely enter your Downloads directory and extract your wallpapers into a new folder without exposing your private username:
+Open **PowerShell** and click the **Copy** button on the right to run these commands. This will safely enter your Downloads directory and extract your wallpapers into a new folder:
 
 ```powershell
 cd ~\Downloads; Expand-Archive -Path .\wallpaper-pack.zip -DestinationPath .\wallpaper_pack_extracted
