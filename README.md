@@ -9,7 +9,7 @@ Welcome to my wallpaper collection! This pack includes high-quality, high-resolu
 
 Since the archive is large, you can download the complete package directly from the link below:
 
-👉 **[Download Wallpaper Pack (535 MB)](../releases/latest)**
+👉 **[Download Wallpaper Pack (535 MB)](https://github.com/8twc/My-Wallpaper-Pack-/releases/tag/v1.0.0)**
 
 ---
 
