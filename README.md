@@ -20,3 +20,11 @@ Open your terminal and click the **Copy** button on the right to run these comma
 ```bash
 cd ~/Downloads && unzip wallpaper-pack.zip -d wallpaper_pack_extracted
 ```
+
+## 🛠️ How to Extract (Windows)
+
+Open **PowerShell** and click the **Copy** button on the right to run these commands. This will safely enter your Downloads directory and extract your wallpapers into a new folder without exposing your private username:
+
+```powershell
+cd ~\Downloads; Expand-Archive -Path .\wallpaper-pack.zip -DestinationPath .\wallpaper_pack_extracted
+```
