@@ -1,3 +1,5 @@
+<img width="3840" height="2160" alt="shot-20261009-182757" src="https://github.com/user-attachments/assets/c07bf5d6-3e60-4eb5-a0e1-d0d441644c10" />
+<img width="1000" height="563" alt="Untitled" src="https://github.com/user-attachments/assets/a5203e52-9288-476a-9fad-c1ac91ac4eec" />
 # 🌆 My Wallpaper Pack
 
 Welcome to my wallpaper collection! This pack includes high-quality, high-resolution backgrounds.
